@@ -31,7 +31,7 @@
 ```python
 class AI工程师:
     def __init__(self):
-        self.名字 = "张凡"
+        self.名字 = "小张Tt"
         self.方向 = [
             "AI 制药 / ChemAI",
             "双目视觉 / 三维重建",
