@@ -16,6 +16,9 @@
   <a href="mailto:fanzhang@agent.qq.com">
     <img src="https://img.shields.io/badge/邮箱-fanzhang@agent.qq.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e3a8a" />
   </a>
+   <a href="https://blog.csdn.net/weixin_43788282">
+    <img src="https://img.shields.io/badge/CSDN-20000+%E7%B2%89%E4%B8%9D-red?style=for-the-badge&logo=blogger&logoColor=white&labelColor=1e3a8a" />
+  </a>
 </div>
 
 <div align="center">
