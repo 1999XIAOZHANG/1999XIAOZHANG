@@ -81,26 +81,6 @@ class AI工程师:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="分割线"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              项目                                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>🚀 项目</h2>
-
-<div align="center">
-
-| 项目 | 简介 | 技术 |
-|:---|:---|:---|
-| [**StereoBlocks**](https://github.com/1999XIAOZHANG/StereoBlocks) | 模块化双目立体匹配框架，即插即用复现 SGM/SGBM/ADCensus | `Python` `OpenCV` `YAML` |
-| [**calibration**](https://github.com/1999XIAOZHANG/calibration) | 通用相机标定工具箱，支持单目/双目/鱼眼 | `Python` `OpenCV` `NumPy` |
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="分割线"/>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              趣味工坊                                          -->
