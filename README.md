@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              1999XIAOZHANG  ·  GitHub 个人主页 · AI4S                 -->
+<!--              1999XIAOZHANG  ·  GitHub 个人主页                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,40:2563eb,70:3b82f6,100:0ea5e9&height=200&section=header&text=1999XIAOZHANG&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F&descSize=15&descAlignY=60" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,40:2563eb,70:3b82f6,100:0ea5e9&height=200&section=header&text=1999XIAOZHANG-AI4S&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F&descSize=15&descAlignY=60" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
